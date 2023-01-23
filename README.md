@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Kik3w0rk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React-Redux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Kik3w0rk/Kik3w0rk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Soy un joven individuo con un interés en la tecnología, llevo 4 años estudiando programación y planeo seguir aumentando mis conocimientos de programación no solo en el área de full stack si no que también en otros tipos de desarrollo de software.
